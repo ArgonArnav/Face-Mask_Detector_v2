@@ -1,3 +1,3 @@
-# Face-Mask Detector v2
+# Face-Mask Detector
 
-In Progress
+In Progress 
